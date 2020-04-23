@@ -2,3 +2,5 @@ vic resolusi
 - Membuat web untuk vicual
 - Share ilmu web programming yang udah dipelajari
 - Memulai membuat konten di youtube
+- Membuat akun gmail vicual
+- Mengikuti jejak web programming UNPAS sebagai panutan hehehe
